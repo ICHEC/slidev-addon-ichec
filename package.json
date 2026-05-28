@@ -1,0 +1,17 @@
+{
+  "name": "slidev-addon-ichec",
+  "version": "1.0.0",
+  "description": "ICHEC corporate components for Slidev",
+  "keywords": [
+    "slidev-addon",
+    "vue"
+  ],
+  "slidev": {
+    "components": "./components",
+    "layouts": "./layouts"
+  },
+  "peerDependencies": {
+    "@slidev/cli": "^0.40.0",
+    "vue": "^3.0.0"
+  }
+}

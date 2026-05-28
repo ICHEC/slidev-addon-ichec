@@ -8,8 +8,16 @@ By installing this addon, you get access to all ICHEC corporate components witho
 
 Ensure you have your Slidev presentation repository initialized, then install this addon using `pnpm`:
 
+If you want to installed the published version, use -
+
 ```bash
 pnpm add -D slidev-addon-ichec
+```
+
+Since it's in rapid development, we recommend directly installing via github, using -
+
+```bash
+pnpm add github:ICHEC/slidev-addon-ichec
 ```
 
 ## 🚀 Usage

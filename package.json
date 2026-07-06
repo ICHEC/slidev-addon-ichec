@@ -1,6 +1,6 @@
 {
   "name": "slidev-addon-ichec",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ICHEC's components template for Slidev",
   "exports": {
      ".": "./package.json",
